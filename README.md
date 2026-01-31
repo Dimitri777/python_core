@@ -1,6 +1,6 @@
 # Python Core - Portfolio Programs
 
-Each file is a separate program for a Python Core topic. All text and comments are in English. Use hyphen (-) only, no em/en dashes.
+Each file is a separate program for a Python Core topic. All text and comments are in English. 
 
 | File | Topic | Description |
 |------|--------|-------------|
